@@ -1,0 +1,6 @@
+{
+  "name": "New Bharat Battery - Wagholi",
+  "description": "Authorized dealer in Wagholi for Luminous, Microtek, Livfast, Exide, and Amaron inverters, Home UPS, and automotive batteries with doorstep delivery, old scrap discount, and 24/7 jumpstart service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
